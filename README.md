@@ -27,5 +27,5 @@
 
 
 ### TODO
-- [] Complete the mapping of EPI
-- [] Add the mapping og CTCI
+- [ ] Complete the mapping of EPI
+- [ ] Add the mapping og CTCI
