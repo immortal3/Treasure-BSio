@@ -9,7 +9,13 @@
 ### Trivia
 
 * [Highest upvoted Solution](https://binarysearch.com/problems/Even-Frequency/solutions/1839347) [@blin00](https://binarysearch.com/@/blin00)
-* [Biggest one liner Solution](https://binarysearch.com/problems/Three-Way-String-Split-with-Equal-Ones/solutions/3513956) [@wizwilzo](https://binarysearch.com/@/wizwilzo)
+* Biggest one liner Solution(https://binarysearch.com/problems/Three-Way-String-Split-with-Equal-Ones/solutions/3513956) [@wizwilzo](https://binarysearch.com/@/wizwilzo)
+* Most problems Solved in A Day, 160 Problems [@abadob](https://binarysearch.com/@/abadod)
+* Most Editorials Written [@Lee](https://binarysearch.com/@/Lee)
+* Most Contest Participations [@goffrie](https://binarysearch.com/@/goffrie)
+* Most Top Editorials [@xiaowuc1](https://binarysearch.com/@/xiaowuc1)
+* Most Friends (excluding Lawrence) [@byte_2](https://binarysearch.com/@/byte_2)
+* Most Skilled karma [@manparvesh](https://binarysearch.com/@/manparvesh)
 
 
 ### EPI Mapping
