@@ -5,6 +5,8 @@
 ### Table of Content
 1. [Trivia](#trivia)
 2. [EPI Mapping](#epi-mapping)
+3. [Leetcode mapping]](#leetcode-mapping)
+4. [Leetcode premium](#leetcode-premium)
 
 ### Trivia
 
@@ -26,7 +28,17 @@
 * [8.9 Implement cyclic right shift for singly linked lists](https://binarysearch.com/problems/Rotate-Linked-List-by-K)
 * [8.11 Test whether a singly linked list is palindromic](https://binarysearch.com/problems/Palindrome-Linked-List)
 
+### Leetcode Mapping
 
+| Leetcode | BinarySearch |
+| ------ | ------ |
+| [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | [Playlist Count](https://binarysearch.com/problems/Playlist-Count) |
+
+### Leetcode Premium
+
+| Leetcode | BinarySearch |
+| ------ | ------ |
+| [Paint House](https://leetcode.com/problems/paint-house) | [Painting Houses](https://binarysearch.com/problems/Painting-Houses) |
 
 **Pull requests are welcome.**
 
