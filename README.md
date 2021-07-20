@@ -5,7 +5,7 @@
 ### Table of Content
 1. [Trivia](#trivia)
 2. [EPI Mapping](#epi-mapping)
-3. [Leetcode mapping]](#leetcode-mapping)
+3. [Leetcode mapping](#leetcode-mapping)
 4. [Leetcode premium](#leetcode-premium)
 
 ### Trivia
